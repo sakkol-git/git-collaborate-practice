@@ -1,1 +1,2 @@
 App Name: Golden APP
+API_KEY: stripe_12345
