@@ -1,1 +1,2 @@
 App Name: Golden APP
+Dabase: postgres://localhost:5432
