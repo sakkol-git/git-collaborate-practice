@@ -1,1 +1,1 @@
-public class Mian { public static void main(String[] args) { System.out.println("System v1.0 - Auth Module Loaded"); }}
+public class Main { public static void main(String[] args) { System.out.println("System v1.1 - Auth Module Loaded"); } }

@@ -1,2 +1,3 @@
-App Name: Golden APP
-Dabase: postgres://localhost:5432
+App Name: Golden App
+Database: postgres://localhost:5432
+API_KEY: stripe_12345
